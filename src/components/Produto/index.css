@@ -1,0 +1,24 @@
+.Item{
+  display: flex;
+
+  margin: 1rem;
+}
+
+.Produto{
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.Actions{
+  display: flex;
+  flex-direction: column;
+}
+
+.img-icon{
+  width: 1rem;
+  height: 1rem;
+  margin: 0.5rem;
+}

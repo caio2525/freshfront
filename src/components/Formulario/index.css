@@ -1,0 +1,32 @@
+.containerForm{
+    display: flex;
+    flex-direction: row;
+}
+
+.Formulario{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid silver;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-group{
+    margin: 0.5rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.buttons{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.5rem;
+}
+
+.botao{
+  margin: 0.5rem;
+}
